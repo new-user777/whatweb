@@ -20,20 +20,16 @@ WhatWeb is a Python script that performs basic analysis on a target URL, includi
 'pip install -r requirements.txt'
 
 Open a terminal and navigate to the script's directory.
-
-## Run the script using the following command:
-
+'cd whatweb'
+Run the script using the following command:
 `python whatweb.py`
 
-Enter the target URL (include http or https) when prompted.
-The script will perform analysis on the target URL and display response headers, server information, and open ports.
 
-`Enter the target URL:[include http/https] `
 
 
 ## Buy me a coffe
 
-`https://www.buymeacoffee.com/shopsaver`
+https://www.buymeacoffee.com/shopsaver
 
 
 
