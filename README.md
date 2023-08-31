@@ -14,19 +14,21 @@ WhatWeb is a Python script that performs basic analysis on a target URL, includi
 - Required Python libraries are mentioned in the script (`requests`, `BeautifulSoup`, `termcolor`, `socket`). Install them using the following command:
 
 
-##Usage
-Clone 
-pip install -r requirements.txt
+## Usage
+
 'git clone https://github.com/shopsaver/whatweb.git`
+'pip install -r requirements.txt'
+
 Open a terminal and navigate to the script's directory.
 
-##Run the script using the following command:
+## Run the script using the following command:
 
 `python whatweb.py`
+
 Enter the target URL (include http or https) when prompted.
 The script will perform analysis on the target URL and display response headers, server information, and open ports.
 
-`Enter the target URL:[include http/https] https://example.com`
+`Enter the target URL:[include http/https] `
 
 
 ##Buy me a coffe
