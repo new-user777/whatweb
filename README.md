@@ -13,13 +13,11 @@ WhatWeb is a Python script that performs basic analysis on a target URL, includi
 - Python 3.x
 - Required Python libraries are mentioned in the script (`requests`, `BeautifulSoup`, `termcolor`, `socket`). Install them using the following command:
 
-```bash
-pip install requests beautifulsoup4 termcolor
-
 
 ##Usage
 Clone 
-' git clone https://github.com/shopsaver/whatweb.git`
+pip install -r requirements.txt
+'git clone https://github.com/shopsaver/whatweb.git`
 Open a terminal and navigate to the script's directory.
 
 ##Run the script using the following command:
