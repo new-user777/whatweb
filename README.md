@@ -16,9 +16,12 @@ WhatWeb is a Python script that performs basic analysis on a target URL, includi
 
 ## Usage
 Open a terminal and navigate to the script's directory.
+
 `git clone https://github.com/shopsaver/whatweb.git`
+
 `pip install -r requirements.txt`
-'cd whatweb'
+
+`cd whatweb`
 
 Run the script using the following command:
 `python whatweb.py`
